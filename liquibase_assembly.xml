@@ -7,7 +7,7 @@
     </formats> 
     <fileSets>
         <fileSet>
-            <directory>${project.basedir}/scripts</directory>
+            <directory>${project.basedir}</directory>
             <outputDirectory>/</outputDirectory>
         </fileSet>
         <fileSet>
@@ -19,8 +19,8 @@
             </includes>
         </fileSet>
         <fileSet>
-            <directory>resources</directory>
-            <outputDirectory>resources</outputDirectory>
+            <directory>master/resources</directory>
+            <outputDirectory>master/resources</outputDirectory>
         </fileSet>
     </fileSets>
 </assembly>
