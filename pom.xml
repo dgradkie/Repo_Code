@@ -126,7 +126,7 @@
         <configuration>
           <descriptor>liquibase_assembly.xml</descriptor>
            <outputDirectory>${outputDirectory}</outputDirectory>
-          <finalName>paczka-${project.version}</finalName>
+          <finalName>${finalName}</finalName>
         </configuration>
         <executions>
           <execution>
