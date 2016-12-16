@@ -9,9 +9,6 @@
         <fileSet>
             <directory>${project.basedir}/scripts</directory>
             <outputDirectory>/</outputDirectory>
-            <includes>
-                <include>liquibase*</include>
-            </includes>
         </fileSet>
         <fileSet>
             <directory>${project.build.directory}</directory>
