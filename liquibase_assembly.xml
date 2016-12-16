@@ -19,8 +19,8 @@
             </includes>
         </fileSet>
         <fileSet>
-            <directory>master/resources</directory>
-            <outputDirectory>master/resources</outputDirectory>
+            <directory>resources</directory>
+            <outputDirectory>resources</outputDirectory>
         </fileSet>
     </fileSets>
 </assembly>
