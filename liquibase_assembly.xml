@@ -14,7 +14,7 @@
             <directory>${project.build.directory}</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
-                <include>liquibase*.jar</include>
+                <include>liquibase*.jar</include> 
                 <include>oracle*.jar</include>
             </includes>
         </fileSet>
