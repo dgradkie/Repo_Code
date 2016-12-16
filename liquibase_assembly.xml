@@ -22,8 +22,8 @@
             </includes>
         </fileSet>
         <fileSet>
-            <directory>${project.basedir}/src/main/resources/</directory>
-            <outputDirectory>${project.outputDirectory}/src/main/resources/</outputDirectory>
+            <directory>resources</directory>
+            <outputDirectory>resources</outputDirectory>
         </fileSet>
     </fileSets>
 </assembly>
