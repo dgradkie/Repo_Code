@@ -1,3 +1,3 @@
 --liquibase formatted sql
---changeset dgradkiewicz:1
+--changeset dgradkiewicz:2
 DROP TABLE tmp_data
